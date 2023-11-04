@@ -157,3 +157,6 @@ Coming soon...
 
 #### Acknowledgements
 The repo badges, logos and code stats on this README are courtesy of [Simple Icons](https://simpleicons.org) and [Shields.io](https://shields.io).
+<br >
+The ATM design is courtesy of https://www.youtube.com/watch?v=k0BofouWX-o & 
+https://github.com/drausin/TechLiterate/tree/master/p013-ATM
